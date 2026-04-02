@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Linus
 
-<!--
-**cfn368/cfn368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Economics student at the University of Copenhagen
 
-Here are some ideas to get you started:
+Currently working on:
+- Energy system scenario modeling (EnergyPLAN, Python pipelines for Danish electricity markets)
+- BSc thesis on intangible capital and optimal capital taxation
+- Policy analysis for Erhvervslivets Tænketank
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently deepening my knowledge in:
+- CGE modeling and energy-economy interactions
+- Renewable energy market dynamics and counterfactual analysis
+- IO-type models for wider markets
+
+Ask me about:
+- Danish energy markets and the green transition
+- Climate policy design and discount rate debates
+
+🛠️ Tools & Languages (a few):
+`Python` `LaTeX` `Stata` `EnergyPLAN` `GrønREFORM` `statsmodels` `arch` `matplotlib`
