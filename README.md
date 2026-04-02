@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Linus
 
 BSc Economics student at the University of Copenhagen and quantitative analyst at
-[Erhvervslivets Tænketank](https://et.dk), where I work on policy analysis spanning
+[Erhvervslivets Tænketank](https://www.e-tank.dk/), where I work on policy analysis spanning
 energy markets, competition, and growth.
 
 ---
