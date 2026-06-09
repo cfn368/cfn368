@@ -4,8 +4,7 @@ BSc Economics @ University of Copenhagen | Analyst @ [Erhvervslivets Tænketank]
 
 **Published work and ongoing projects:**
 - [Human Capitalists in The Intangible Era](https://github.com/cfn368/ba_capinc) — two-sector GE model coded in Python (bsc thesis)
-- [Nuclear power in Denmark's energy mix](link) (upcoming) — EnergyPLAN + GrønREFORM analysis  
-- [VE variation and electricity prices](link) (upcoming) — some fun data on RE properties in DK
+- [Datacenter on-site power: SMR vs solar+wind+battery](https://github.com/cfn368/on_site_datacenter_mdl) — LP cost optimisation under hourly on-site share requirement
 
 **Open-source tools:**
 - [ET-EP-python-interface](https://github.com/cfn368/ET-EP-python-interface) — Python framework for programmatic EnergyPLAN simulation and optimisation
