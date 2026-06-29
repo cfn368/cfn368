@@ -1,5 +1,4 @@
-## Hi there 👋 I'm Linus
-Quantitative economist — macro and energy.  
+## Hi there 👋
 BSc Economics @ University of Copenhagen | Analyst @ [Erhvervslivets Tænketank](https://www.e-tank.dk/)
 
 **Published work and ongoing projects:**
