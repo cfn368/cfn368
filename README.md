@@ -1,5 +1,5 @@
-## Hi there 👋
-BSc Economics @ University of Copenhagen | Analyst @ [Erhvervslivets Tænketank](https://www.e-tank.dk/)
+Hi there 👋
+mSc Economics @ University of Copenhagen | Analyst @ [Erhvervslivets Tænketank](https://www.e-tank.dk/)
 
 **Published work and ongoing projects:**
 - [Human Capitalists in The Intangible Era](https://github.com/cfn368/ba_capinc) — two-sector GE model coded in Python (bsc thesis)
@@ -12,5 +12,3 @@ BSc Economics @ University of Copenhagen | Analyst @ [Erhvervslivets Tænketank]
 - [ET-EP-python-interface](https://github.com/cfn368/ET-EP-python-interface) — Python framework for programmatic EnergyPLAN simulation and optimisation
 - [ET-eds-api](https://github.com/cfn368/ET-eds-api) — Python client for the Energi Data Service API · `pip install ET-eds-api`
 - [ET-comext-wrapper](https://github.com/cfn368/ET-comext-wrapper) — Python client for EUROSTAT's comext trade tables. `pip install comext_wrapper` 
-
-**Stack:** Python · EnergyPLAN · GrønREFORM · statsmodels · DST API
